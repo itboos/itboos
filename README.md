@@ -1,4 +1,4 @@
-### Hi there, I'm Zack Zhong 👋
+### Hi here, I'm Zack Zhong 👋
 
 <!--
 **itboos/itboos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,7 @@ Github ReadmeStatus
 https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
 https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md#demo
 theme: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+https://github.com/Karlatemp/Karlatemp
 -->
 
 Hi, I'm Zack Zhong, a passionate self-taught frontEnd web developer from China.
@@ -28,3 +29,5 @@ Hi, I'm Zack Zhong, a passionate self-taught frontEnd web developer from China.
 - 💬 Ask me about anything [here](https://github.com/itboos/itboos/issues)
 
 ![itboos's GitHub stats](https://github-readme-stats.vercel.app/api?username=itboos&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itboos&layout=compact&theme=tokyonight)](https://github.com/itboos)
