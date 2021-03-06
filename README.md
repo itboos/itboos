@@ -2,7 +2,7 @@
 
 Hi, I'm Zack Zhong, a passionate self-taught frontEnd web developer from China.
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...1
 - 🌱 I’m currently learning Typescript
 - 📷 I like photography
 - 💬 Ask me about anything [here](https://github.com/itboos/itboos/issues)
